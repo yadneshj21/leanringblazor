@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/dishaenterprises/Projects/Azure/learningblazor/obj/Debug/net8.0/scopedcss/projectbundle/learningblazor.bundle.scp.css",
+      "PackagePath": "staticwebassets/learningblazor.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/dishaenterprises/Projects/Azure/learningblazor/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/dishaenterprises/Projects/Azure/learningblazor/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dishaenterprises/Projects/Azure/learningblazor/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/dishaenterprises/Projects/Azure/learningblazor/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.learningblazor.props",
+      "PackagePath": "build\\learningblazor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.learningblazor.props",
+      "PackagePath": "buildMultiTargeting\\learningblazor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.learningblazor.props",
+      "PackagePath": "buildTransitive\\learningblazor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.learningblazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
